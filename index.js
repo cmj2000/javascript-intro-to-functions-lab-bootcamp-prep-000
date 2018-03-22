@@ -39,7 +39,7 @@ function shout(string) {
        {
          return string   
        }
-    //  if(string.toUpperCase()== string)
+    //  if(string.toUpperCase()== string && string,toLowerCase() === string) 
      //  {
      //    return string   
       // }
