@@ -26,21 +26,17 @@ function shout(string) {
  function sayHiToGrandma(string)
   {
     
-   // var lowercase = "I can't hear you!"
-    var = uppercase "YES INDEED!"
-    var mixedCase = "I love you, Grandma."
+//  var = uppercase "YES INDEED!"
+///var mixedCase = "I love you, Grandma."
      
      
     
-    if(string.toLowerCase() === lowercase)
+    if(string.toLowerCase() === string)
       {
-      //  return(lowercase)
+       return string
       
-      return("I can't hear you!")
-        
-      }
-      
-      if(string.toUpperCase()== )
+    
+      if(string.toUpperCase()== string)
     
   
   }
