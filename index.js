@@ -23,10 +23,10 @@ function shout(string) {
   
  
   
-/*  function sayHiToGrandma(string)
+ function sayHiToGrandma(string)
   {
     
-    var lowercase = "I can't hear you!"
+   // var lowercase = "I can't hear you!"
     var = uppercase "YES INDEED!"
     var mixedCase = "I love you, Grandma."
      
@@ -43,14 +43,16 @@ function shout(string) {
       if(string.toUpperCase()== )
     
   
-  }*/
+  }
+   
+  /* 
    function sayHiToGrandma(string){
      var string= "i can't hear you!"
      if(string.toLowerCase() === string ){
      return string
      }
    }
-  
+  */
   
   
   
