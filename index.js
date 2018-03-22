@@ -42,7 +42,7 @@ function shout(string) {
         }
    
  
- 
+  }
  
  
   /* 
