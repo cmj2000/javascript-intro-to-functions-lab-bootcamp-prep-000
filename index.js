@@ -35,7 +35,7 @@ function shout(string) {
        return string
       }
     
-    if(string.toUpperCase()== string)
+   else if(string.toUpperCase()== string)
        {
          return string   
        }
